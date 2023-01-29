@@ -4,7 +4,7 @@
   "description": "Improve the folding experience in VS Code",
   "version": "0.2.1",
   "engines": {
-    "vscode": "^1.74.0"
+    "vscode": "^1.73.0"
   },
   "repository": {
     "type": "git",
